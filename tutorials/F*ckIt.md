@@ -5,4 +5,4 @@ So, if you are in desperate position of unable to even answer a few simple quest
 
 ## Step 1
 Open Developer Tools in your browser.
-![Opening Dev Tools](res/Screenshot (130).png)
+![Opening Dev Tools](res/Screenshot%20(130).png)
