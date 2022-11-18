@@ -5,8 +5,20 @@ So, if you are in desperate position of unable to even answer a few simple quest
 
 ## Step 1
 Open Developer Tools in your browser.
+
 ![Opening Dev Tools](res/Screenshot%20(130).png)
 
 ## Step 2
 Go to the sources tab,, if not already open. Select the "online-exams" file in the drawer to the left.
+Now, in the bottom menu, click on Global Listeners tab and expand the "blur" and "focus" options.
+Click the remove button for both the options, and you're done.
+
+It should look something like this before removing.
 ![Opening Dev Tools](res/Screenshot%20(131).png)
+
+
+And after removing,
+![Opening Dev Tools](res/Screenshot%20(132).png)
+
+#Boom!
+Enjoy the exam folks...
