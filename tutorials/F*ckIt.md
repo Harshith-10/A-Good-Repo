@@ -3,6 +3,9 @@ Yo guys, I'm Harsh, a disciple of The Sparkly Skull. I've come to save the day i
 After the ResoDEVS updated their website, old method to remove the focus listener no longer works.
 So, if you are in desperate position of unable to even answer a few simple questions, just follow my command.
 
+# NOTE *VERY IMPORTANT*
+I did this process before opening the exam. You'll have to do it after opening the exam. You might face a warning, but you can safely ignore it.
+
 ## Step 1
 Open Developer Tools in your browser.
 
